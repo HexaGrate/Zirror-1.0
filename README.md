@@ -27,6 +27,6 @@ Contributions are welcome! If you encounter any bugs or have ideas for improveme
 
 Zirror 1.0 is licensed under the [`Apache License 2.0`](LICENSE).
 
-This is a `Forever Open Source Project` that this means thus project is already submitted and created as `Open Source` and copyrighted by my license [`ReoX-Project-1.0`](RXPLICENSE.md)
+This is a `Forever Open Source Project` that this means this project is already submitted and created as `Open Source` and copyrighted by my license [`ReoX-Project-1.0`](RXPLICENSE.md)
 
 © Since `2024` | By `HexaGrate FOSP` | All rights reserved.
